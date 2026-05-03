@@ -6,7 +6,9 @@ JAX code for a **decaying Taylor–Green** setup on a periodic **D3Q19** lattice
 
 ### Citation
 
-**Repository:** `[IdreesKhan3/open-channel-dissipation-q-lbm](https://github.com/IdreesKhan3/open-channel-dissipation-q-lbm)`  
+**Software (Zenodo, `v1.0.0`):** [DOI](https://doi.org/10.5281/zenodo.20016889) — [Zenodo record](https://zenodo.org/records/20016889)
+
+**GitHub repository:** [IdreesKhan3/open-channel-dissipation-q-lbm](https://github.com/IdreesKhan3/open-channel-dissipation-q-lbm)
 
 **Manuscript — arXiv preprint** [physics.comp-ph, 2604.25429](https://arxiv.org/abs/2604.25429):
 
